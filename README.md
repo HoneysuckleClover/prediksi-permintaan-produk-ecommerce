@@ -11,7 +11,7 @@ Sistem ini melakukan analisis dan prediksi permintaan produk berdasarkan dataset
 - Data Preprocessing
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
-- Model Machine Learning (LSTM, Random Forest dan Regression)
+- Model Machine Learning (Linear Regression, Random Forest, LSTM, XGBoost)
 - Evaluasi Model
 
 ## Struktur Folder
