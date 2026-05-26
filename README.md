@@ -6,6 +6,12 @@ Project ini merupakan implementasi Machine Learning untuk memprediksi permintaan
 
 Sistem ini melakukan analisis dan prediksi permintaan produk berdasarkan dataset penjualan e-commerce. Model machine learning digunakan untuk mempelajari pola data historis sehingga dapat menghasilkan prediksi permintaan di masa mendatang.
 
+## Dataset
+Olist Brazilian E-Commerce Dataset
+
+Source:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 ## Metode yang Digunakan
 
 - Data Preprocessing
