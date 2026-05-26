@@ -1,0 +1,18 @@
+
+RINGKASAN HASIL EKSPERIMEN
+===========================
+Dataset    : Olist Brazilian E-Commerce
+Model      : Linear Regression, Random Forest, XGBoost, LSTM
+Metrik     : RMSE, MAE, MAPE
+
+HASIL:
+- XGBoost   → RMSE: 22.46 | MAE: 10.92 | MAPE: 194.03%  ← TERBAIK
+- Ran.Forest→ RMSE: 23.64 | MAE: 10.81 | MAPE: 113.35%
+- LSTM      → RMSE: 39.93 | MAE: 23.60 | MAPE: 512.26%
+- Lin.Reg   → RMSE: 40.60 | MAE: 24.78 | MAPE: 563.95%
+
+KESIMPULAN:
+XGBoost unggul pada RMSE dan MAE.
+Random Forest unggul pada MAPE.
+Model ML klasik lebih baik dari Deep Learning (LSTM)
+untuk data tabular e-commerce ini.
