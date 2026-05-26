@@ -17,7 +17,9 @@ Sistem ini melakukan analisis dan prediksi permintaan produk berdasarkan dataset
 ## Struktur Folder
 
 data/ -> Dataset yang digunakan
+
 notebooks/ -> File Jupyter Notebook (EDA, training model)
+
 results/ -> Hasil prediksi dan evaluasi model
 
 ## Teknologi yang Digunakan
