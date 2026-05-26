@@ -33,13 +33,13 @@ results/ -> Hasil prediksi dan evaluasi model
 ## Cara Menjalankan Project
 
 1. Clone repository ini
-git clone https://github.com/HoneysuckleClover/prediksi-permintaan-produk.git
+(git clone https://github.com/HoneysuckleClover/prediksi-permintaan-produk.git)
 
 2. Masuk ke folder project
-cd prediksi-permintaan-produk
+(cd prediksi-permintaan-produk)
 
 4. Install dependencies
-pip install -r requirements.txt
+(pip install -r requirements.txt)
 
 6. Jalankan notebook atau script Python
-jupyter notebook
+(jupyter notebook)
